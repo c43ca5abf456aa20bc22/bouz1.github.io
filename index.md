@@ -12,7 +12,7 @@
 <img src="images/FFT.png?raw=true"/>
 
 ---
-[Project 3 Title]([https://github.com/BOUZIANI-ABDELAZIZ/A_BOUZIANI_LM_W6_project/blob/main/A_BOUZIANI_project.ipynb])
+[Project 3 Title](https://github.com/BOUZIANI-ABDELAZIZ/A_BOUZIANI_LM_W6_project/blob/main/A_BOUZIANI_project.ipynb)
 <img src="images/FFT.png?raw=true"/>
 
 ---
