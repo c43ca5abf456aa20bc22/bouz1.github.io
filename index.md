@@ -27,7 +27,7 @@ This project has objectif of
 
 - [html in the same reposotory](/fils/DataMaining_jupiter_V1_html.html)
 - [ipynb in the same reposotory](/fils/A_BOUZIANI_project.ipynb)
-- [Project 2 Title](http://example.com/)
+- [md with images](/fils/md_ex/DataMaining_jupiter_V1.md)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
