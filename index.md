@@ -4,28 +4,29 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/fils/example1.md)
+[md example](/fils/example1.md)
 <br>
 This project has objectif of 
 <br>
 <img src="images/FFT.png?raw=true"/>
 
 ---
-[Project 333 Title](/fils/test.html)
+[html example](/fils/test.html)
 ---
 
-[Project 2 Title](/pdf_/EXPDF.pdf)
+[pdf example](/pdf_/EXPDF.pdf)
 <img src="images/FFT.png?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/BOUZIANI-ABDELAZIZ/A_BOUZIANI_LM_W6_project/blob/main/A_BOUZIANI_project.ipynb)
+[ipynb in a another reposotory](https://github.com/BOUZIANI-ABDELAZIZ/A_BOUZIANI_LM_W6_project/blob/main/A_BOUZIANI_project.ipynb)
 <img src="images/FFT.png?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [html in the same reposotory](/fils/DataMaining_jupiter_V1_html.html)
+- [ipynb in the same reposotory](/fils/A_BOUZIANI_project.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
