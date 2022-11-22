@@ -1,10 +1,11 @@
-## Portfolio
+## Portfolio Data Scientist
 
 ---
 
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
+This project has objectif of 
 <img src="images/FFT.png?raw=true"/>
 
 ---
