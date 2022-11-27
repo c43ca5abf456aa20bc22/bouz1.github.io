@@ -23,7 +23,9 @@ This project has objectif of
 
 ---
 
-[Web Scraping](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.ipynb)
+[Web Scraping ipynb](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.ipynb)
+[Web Scraping html](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.html)
+[Web Scraping md](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.md)
 
 ### Category Name 2
 
