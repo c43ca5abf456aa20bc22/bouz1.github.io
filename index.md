@@ -23,6 +23,8 @@ This project has objectif of
 
 ---
 
+[Web Scraping](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.ipynb)
+
 ### Category Name 2
 
 - [html in the same reposotory](/fils/DataMaining_jupiter_V1_html.html)
