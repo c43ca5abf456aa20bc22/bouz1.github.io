@@ -41,7 +41,7 @@ This project has objectif of
 
 - [Coursera: IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
    * [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
-      * Certificate: [PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[Link](https://www.coursera.org/verify/2ZH34DYCYWGN)
+      * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[ Verification link](https://www.coursera.org/verify/2ZH34DYCYWGN)
 - [ipynb in the same reposotory](/fils/A_BOUZIANI_project.ipynb)
 - [md with images](/fils/md_ex/DataMaining_jupiter_V1.md)
 - [Project 3 Title](http://example.com/)
