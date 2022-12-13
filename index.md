@@ -47,6 +47,15 @@ This project has objectif of
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+
+
+
+this is a normal line of text
+  * this is the first level of bullet points, made up of <space><space>*<space>
+    * this is more indented, composed of <space><space><space><space>*<space>
+
+
+
 ---
 
 
