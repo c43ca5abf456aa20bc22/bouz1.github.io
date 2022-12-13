@@ -7,9 +7,11 @@
 <br>
 This project has objectif of 
 <br>
-<img src="/projects/web_scraping/img/img1.png"/>
-
-
+<p style="text-align:center">
+    <a>
+    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="200"/>
+    </a>
+</p>
 
 
 
