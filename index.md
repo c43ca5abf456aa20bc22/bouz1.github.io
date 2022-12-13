@@ -41,9 +41,9 @@ This project has objectif of
 
 - [Coursera: IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
    * [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
-      * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[ Certificate verification link]
+      * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[ Certificate verification link](https://www.coursera.org/verify/2ZH34DYCYWGN)
    * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
-      * [Certificate as PDF](),[ Certificate verification link]
+      * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_PFVHZ36PBVEU.pdf),[ Certificate verification link](https://www.coursera.org/verify/PFVHZ36PBVEU)
 
 
 
