@@ -40,7 +40,7 @@ This project has objectif of
 ### Category Name 2
 
 - [Coursera: IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
-* Test
+   * Test
 - [ipynb in the same reposotory](/fils/A_BOUZIANI_project.ipynb)
 - [md with images](/fils/md_ex/DataMaining_jupiter_V1.md)
 - [Project 3 Title](http://example.com/)
