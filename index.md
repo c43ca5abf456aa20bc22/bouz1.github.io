@@ -44,6 +44,8 @@ This project has objectif of
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[ Certificate verification link](https://www.coursera.org/verify/2ZH34DYCYWGN)
    * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_PFVHZ36PBVEU.pdf),[ Certificate verification link](https://www.coursera.org/verify/PFVHZ36PBVEU)
+   * [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
+      * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_9SG9UB7MTEKX.pdf),[ Certificate verification link](https://www.coursera.org/verify/9SG9UB7MTEKX)
 
 
 
