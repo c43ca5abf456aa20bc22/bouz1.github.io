@@ -37,7 +37,7 @@ This project has objectif of
 - [Project 5 Title](http://example.com/)
 
 ---
-### Category Name 2
+### Online courses
 
 - [Coursera: IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
    * [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
