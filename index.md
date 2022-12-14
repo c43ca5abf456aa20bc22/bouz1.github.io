@@ -70,9 +70,3 @@ This project has objectif of
 
 
 ---
-
-
-
----
-<p style="font-size:11px">Page template from <a href="https://test.com">test</a></p>
-<!-- Remove above link if you don't want to attibute -->
