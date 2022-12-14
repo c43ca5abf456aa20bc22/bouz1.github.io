@@ -5,7 +5,8 @@
 ### Category Name 1 
 #### [Web scraping](/projects/web_scraping/Web_scaping_V2.ipynb)
 <br>
-In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicle [LaCentral](www.lacentrale.fr)
+In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles
+[LaCentral](www.lacentrale.fr)
 <br>
 <p align="center">
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
