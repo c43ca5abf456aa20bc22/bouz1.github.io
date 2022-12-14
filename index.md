@@ -64,6 +64,14 @@ This project has objectif of
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_X72CB3L6VBYZ.pdf),[ Certificate verification link](https://www.coursera.org/verify/X72CB3L6VBYZ)
    * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y24AKUPY9QY3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y24AKUPY9QY3)
+
+ <font size="1"> This is my text number1</font> 
+ <font size="2"> This is my text number 2 </font>
+ <font size="3"> This is my text number 3</font> 
+ <font size="4"> This is my text number 4</font> 
+ <font size="5"> This is my text number 5</font> 
+ <font size="6"> This is my text number 6</font>
+
 ---
 
 
