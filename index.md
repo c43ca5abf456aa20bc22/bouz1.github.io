@@ -7,9 +7,11 @@
 <br>
 In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles (www.lacentrale.fr)
 <br>
+<a href="/projects/web_scraping/Web_scaping_V2.ipynb">
 <p align="center">
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
 </p>
+</a>
 
 
 
