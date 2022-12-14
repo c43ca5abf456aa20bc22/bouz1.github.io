@@ -48,7 +48,7 @@ This project has objectif of
 - [Project 5 Title](http://example.com/)
 
 ---
-## Online courses
+## Online courses & certificates
 
 * [**Coursera: IBM Data Science Professional**](https://www.coursera.org/professional-certificates/ibm-data-science?)
 
