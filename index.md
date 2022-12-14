@@ -61,11 +61,13 @@ This project has objectif of
    * [***Machine Learning with Python***](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_RT5DRFX5QVQC.pdf),[ Certificate verification link](https://www.coursera.org/verify/RT5DRFX5QVQC)
 * [**Coursera: Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?)
-   * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+   * [***Course 1: Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_2885FW8HSZYA.pdf),[ Certificate verification link](https://www.coursera.org/verify/2885FW8HSZYA)
-   * [***Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+   * [***Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_X72CB3L6VBYZ.pdf),[ Certificate verification link](https://www.coursera.org/verify/X72CB3L6VBYZ)
-   * [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+   * [***Course 3: Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects)
+      * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_BTTCD3QQY7MN.pdf),[ Certificate verification link](https://www.coursera.org/verify/BTTCD3QQY7MN)
+   * [***Course 4: Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y24AKUPY9QY3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y24AKUPY9QY3)
 
 
