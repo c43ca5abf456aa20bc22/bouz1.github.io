@@ -11,7 +11,7 @@ In this project, a sample way to gather the data from the web. As the gathering 
 <p align="center">
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
 </p>
-</a>
+
 
 
 
