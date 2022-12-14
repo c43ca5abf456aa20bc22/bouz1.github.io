@@ -51,6 +51,7 @@ This project has objectif of
 ## Online courses
 
 * [**Coursera: IBM Data Science Professional**](https://www.coursera.org/professional-certificates/ibm-data-science?)
+/
    * [***What is Data Science?***](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_2ZH34DYCYWGN.pdf),[ Certificate verification link](https://www.coursera.org/verify/2ZH34DYCYWGN)
    * [***Python for Data Science, AI & Development***](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
@@ -59,7 +60,9 @@ This project has objectif of
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_9SG9UB7MTEKX.pdf),[ Certificate verification link](https://www.coursera.org/verify/9SG9UB7MTEKX)
    * [***Machine Learning with Python***](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_RT5DRFX5QVQC.pdf),[ Certificate verification link](https://www.coursera.org/verify/RT5DRFX5QVQC)
+/
 * [**Coursera: Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?)
+/
    * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_2885FW8HSZYA.pdf),[ Certificate verification link](https://www.coursera.org/verify/2885FW8HSZYA)
    * [***Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
