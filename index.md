@@ -2,8 +2,8 @@
 
 ---
 
-### Category Name 1 
-#### [Web scraping](/projects/web_scraping/Web_scaping_V2.ipynb)
+## Projects
+### [Web scraping](/projects/web_scraping/Web_scaping_V2.ipynb)
 <br>
 In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles (www.lacentrale.fr)
 <br>
@@ -48,7 +48,7 @@ This project has objectif of
 - [Project 5 Title](http://example.com/)
 
 ---
-### Online courses
+## Online courses
 
 - [**Coursera: IBM Data Science Professional**](https://www.coursera.org/professional-certificates/ibm-data-science?)
    * [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
