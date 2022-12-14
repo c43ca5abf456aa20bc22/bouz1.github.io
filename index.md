@@ -57,7 +57,7 @@ This project has objectif of
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_9SG9UB7MTEKX.pdf),[ Certificate verification link](https://www.coursera.org/verify/9SG9UB7MTEKX)
    * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_RT5DRFX5QVQC.pdf),[ Certificate verification link](https://www.coursera.org/verify/RT5DRFX5QVQC)
-- [**Coursera: Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?)
+- [***Coursera: Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning?)
    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_2885FW8HSZYA.pdf),[ Certificate verification link](https://www.coursera.org/verify/2885FW8HSZYA)
    * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
@@ -65,12 +65,7 @@ This project has objectif of
    * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y24AKUPY9QY3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y24AKUPY9QY3)
 
- <font size="1"> This is my text number1</font> 
- <font size="2"> This is my text number 2 </font>
- <font size="3"> This is my text number 3</font> 
- <font size="4"> This is my text number 4</font> 
- <font size="5"> This is my text number 5</font> 
- <font size="6"> This is my text number 6</font>
+
 
 ---
 
