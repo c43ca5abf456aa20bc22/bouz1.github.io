@@ -20,33 +20,7 @@ In this project, a sample way to gather the data from the web. As the gathering 
 This project has objectif of 
 <br>
 <img src="images/FFT.png?raw=true"/>
-
----
-[html example](/fils/test.html)
----
-
-[pdf example](/pdf_/EXPDF.pdf)
-<img src="images/FFT.png?raw=true"/>
-
----
-[ipynb in a another reposotory](https://github.com/BOUZIANI-ABDELAZIZ/A_BOUZIANI_LM_W6_project/blob/main/A_BOUZIANI_project.ipynb)
-<img src="images/FFT.png?raw=true"/>
-
----
-
-[Web Scraping ipynb](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.ipynb)
-[Web Scraping html](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.html)
-[Web Scraping md](https://github.com/bouz1/Projects/blob/main/Web_scraping/Web_scaping.md)
-
-### Category Name 2
-
-- [html in the same reposotory](/fils/DataMaining_jupiter_V1_html.html)
-- [ipynb in the same reposotory](/fils/A_BOUZIANI_project.ipynb)
-- [md with images](/fils/md_ex/DataMaining_jupiter_V1.md)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+___
 ---
 ## Online courses & certificates
 
