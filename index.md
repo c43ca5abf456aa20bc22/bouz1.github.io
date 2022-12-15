@@ -12,15 +12,7 @@ In this project, a sample way to gather the data from the web. As the gathering 
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
 </p>
 
-
-
-
-[md example](/fils/example1.md)
-<br>
-This project has objectif of 
-<br>
-<img src="images/FFT.png?raw=true"/>
-___
+---
 ---
 ## Online courses & certificates
 
