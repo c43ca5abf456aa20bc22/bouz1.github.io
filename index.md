@@ -5,11 +5,13 @@
 ## Projects
 ### [Web scraping](/projects/web_scraping/Web_scaping_V2.ipynb)
 <br>
-In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles [La Central](www.lacentrale.fr)
+In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles
 <a href="www.lacentrale.fr">La Central</a>
+
 <br>
 <a href="/projects/web_scraping/Web_scaping_V2.ipynb">Open the project</a>
 <br>
+
 <a href="/projects/web_scraping/Web_scaping_V2.ipynb">
 <p align="center">
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
