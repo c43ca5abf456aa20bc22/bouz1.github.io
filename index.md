@@ -6,11 +6,9 @@
 ### [Web scraping](/projects/web_scraping/Web_scaping_V2.ipynb)
 <br>
 In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles [La Central](www.lacentrale.fr)
+<a href="www.lacentrale.fr">La Central</a>
 <br>
-[Open the project](/projects/web_scraping/Web_scaping_V2.ipynb)
-<br>
-
-<a href="/projects/web_scraping/Web_scaping_V2.ipynb">Azure DDOS Protection Standard</a>
+<a href="/projects/web_scraping/Web_scaping_V2.ipynb">Open the project</a>
 <br>
 <a href="/projects/web_scraping/Web_scaping_V2.ipynb">
 <p align="center">
