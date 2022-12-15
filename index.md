@@ -13,7 +13,6 @@ In this project, a sample way to gather the data from the web. As the gathering 
 </p>
 
 ---
----
 ## Online courses & certificates
 
 [**Coursera: IBM Data Science Professional**](https://www.coursera.org/professional-certificates/ibm-data-science?)
