@@ -9,6 +9,9 @@ In this project, a sample way to gather the data from the web. As the gathering 
 <br>
 [Open the project](/projects/web_scraping/Web_scaping_V2.ipynb)
 <br>
+
+<a href="/projects/web_scraping/Web_scaping_V2.ipynb">Azure DDOS Protection Standard</a>
+<br>
 <a href="/projects/web_scraping/Web_scaping_V2.ipynb">
 <p align="center">
    <img src="/projects/web_scraping/img/img1.png" alt="drawing" width="600"/>
