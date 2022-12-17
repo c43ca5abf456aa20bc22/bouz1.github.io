@@ -1,5 +1,4 @@
 <h1 align="center"><font size="5" >Data science portfolio</font></h1>
----
 
 ## Projects
 ### [Project1: Web scraping](https://github.com/bouz1/web_scraping/blob/main/Web_scaping_V3.ipynb)
