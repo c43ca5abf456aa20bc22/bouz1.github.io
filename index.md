@@ -16,6 +16,19 @@ In this project, a sample way to gather the data from the web. As the gathering 
 </p>
 
 
+### [Project2: Manipulation of second hand vehicles data](https://github.com/bouz1/Manipulation_of_second_hand_vehicles_data/blob/main/Data_Manipulation_Lacentral_V1.ipynb)
+<br>
+In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles
+<a href="https://www.lacentrale.fr">La Central</a>
+
+<br>
+<a href="https://github.com/bouz1/Manipulation_of_second_hand_vehicles_data/blob/main/Data_Manipulation_Lacentral_V1.ipynb">Open the project</a>
+<br>
+<p align="center">
+   <img src="/images/data_manipulation.png" alt="drawing" width="600"/>
+</p>
+
+
 ---
 ## Online courses & certificates
 
