@@ -11,14 +11,10 @@ In this project, a sample way to gather the data from the web. As the gathering 
 <br>
 <a href="https://github.com/bouz1/bouz1.github.io/blob/master/projects/web_scraping/Web_scaping_V2.ipynb">Open the project</a>
 <br>
-
-
-
-<a href=""https://github.com/bouz1/bouz1.github.io/blob/master/projects/web_scraping/Web_scaping_V2.ipynb"">
 <p align="center">
    <img src="/images/img1.png" alt="drawing" width="600"/>
 </p>
-</a>
+
 
 ---
 ## Online courses & certificates
