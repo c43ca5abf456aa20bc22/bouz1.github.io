@@ -19,10 +19,14 @@ In this project, a sample way to gather the data from the web. As the gathering 
 ### [Project2: Manipulation of second hand vehicles data](https://github.com/bouz1/Manipulation_of_second_hand_vehicles_data/blob/main/Data_Manipulation_Lacentral_V1.ipynb)
 <br>
 In this project we will manipulate data that we gathered by the web scraping:
+<br>
 &#x2022; In the first part, we will clearing data and convert it to numerical form
+<br>
 &#x2022; In the second part, we will check the price correlation with other features
-   * In the third part, we will analyze the data and plotting some features and distribution
-   * In the last part, we will try to build a model to predict the price by linear regression and deep learning algorithm
+<br>
+&#x2022; In the third part, we will analyze the data and plotting some features and distribution
+<br>
+&#x2022; In the last part, we will try to build a model to predict the price by linear regression and deep learning algorithm
   
 
 <br>
