@@ -17,7 +17,7 @@ In this project, a sample way to gather the data from the web. As the gathering 
 ### [Project 2 : Manipulation of second hand vehicles data](https://github.com/bouz1/Manipulation_of_second_hand_vehicles_data/blob/main/Data_Manipulation_Lacentral_V1.ipynb)
 <br><br>
 In this project we will manipulate data that we gathered by the web scraping:
-<br>
+<br><br>
 &#x2022;  In the first part, we will clearing data and convert it to numerical form
 <br>
 &#x2022;  In the second part, we will check the price correlation with other features
