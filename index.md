@@ -16,7 +16,7 @@ In this project, a sample way to gather the data from the web. As the gathering 
 
 <a href=""https://github.com/bouz1/bouz1.github.io/blob/master/projects/web_scraping/Web_scaping_V2.ipynb"">
 <p align="center">
-   <img src="bouz1.github.io/images/img1.png" alt="drawing" width="600"/>
+   <img src="/images/img1.png" alt="drawing" width="600"/>
 </p>
 </a>
 
