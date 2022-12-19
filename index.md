@@ -4,6 +4,7 @@
 ### [Project 1 : Web scraping](https://github.com/bouz1/web_scraping/blob/main/Web_scaping_V3.ipynb)
 In this project, a sample way to gather the data from the web. As the gathering vehicle data such price, power ... from a France web site of second hand vehicles
 <a href="https://www.lacentrale.fr">La Central</a>
+<br>
 <a href="https://github.com/bouz1/web_scraping/blob/main/Web_scaping_V3.ipynb">Open the project</a>
 <br>
 <p align="center">
