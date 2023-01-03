@@ -18,6 +18,7 @@
         
         {% if site.logo %}
           <a><img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%"></a>
+          <!--    <img src="{{site.logo | relative_url}}" alt="Logo" />   -->
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
