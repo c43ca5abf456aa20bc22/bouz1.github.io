@@ -59,4 +59,4 @@ In this project we will manipulate data that we gathered by the web scraping:
 ## Skills 
 ### Programming Languages
 * Python, Matlab-simulink, Vb.net & VBA, SQL, HTML (basics)
-* Python Libraries: Numpy, Pandas, Sklearn
+* Python Libraries: Numpy, Pandas, Sklearn, PandaSql, TensorFlow, Seaborn, MatPlotLib, yFinance, bs4.BeautifulSoup
