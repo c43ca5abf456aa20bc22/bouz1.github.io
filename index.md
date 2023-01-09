@@ -46,7 +46,7 @@ In this project we will manipulate data that we gathered by the web scraping:
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_RT5DRFX5QVQC.pdf),[ Certificate verification link](https://www.coursera.org/verify/RT5DRFX5QVQC)
    
 [**Coursera: Deep Learning Specialization,<br> by DeepLearning.AI (Andrew Ng)**](https://www.coursera.org/specializations/deep-learning?)
-   
+   * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_5Q22A7D5L72Z.pdf),[ Certificate verification link](https://www.coursera.org/verify/5Q22A7D5L72Z)
    * [***Course 1: Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_2885FW8HSZYA.pdf),[ Certificate verification link](https://www.coursera.org/verify/2885FW8HSZYA)
    * [***Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
@@ -55,6 +55,9 @@ In this project we will manipulate data that we gathered by the web scraping:
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_BTTCD3QQY7MN.pdf),[ Certificate verification link](https://www.coursera.org/verify/BTTCD3QQY7MN)
    * [***Course 4: Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y24AKUPY9QY3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y24AKUPY9QY3)
+   * [***Course 5: Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
+      * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y4QQT29YGKE3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y4QQT29YGKE3)
+
 
 ## Skills 
 ### Programming Languages
