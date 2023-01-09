@@ -47,7 +47,7 @@ In this project we will manipulate data that we gathered by the web scraping:
    
 [**Coursera: Deep Learning Specialization by DeepLearning.AI (Andrew Ng)**](https://www.coursera.org/specializations/deep-learning?)
 <br>
-[Certificate as PDF](/certificates/DeepLearning_AI/Coursera_5Q22A7D5L72Z.pdf),[ Certificate verification link](https://coursera.org/verify/specialization/5Q22A7D5L72Z)
+[Specialization certificate as PDF](/certificates/DeepLearning_AI/Coursera_5Q22A7D5L72Z.pdf),[ Certificate verification link](https://coursera.org/verify/specialization/5Q22A7D5L72Z)
    * [***Course 1: Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_2885FW8HSZYA.pdf),[ Certificate verification link](https://www.coursera.org/verify/2885FW8HSZYA)
    * [***Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
