@@ -42,7 +42,7 @@ In this project we will manipulate data that we gathered by the web scraping:
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_PFVHZ36PBVEU.pdf),[ Certificate verification link](https://www.coursera.org/verify/PFVHZ36PBVEU)
    * [***Course 5: Databases and SQL for Data Science with Python***](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_9SG9UB7MTEKX.pdf),[ Certificate verification link](https://www.coursera.org/verify/9SG9UB7MTEKX)
-   * [***Course 7: Data Analysis with Python***](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science)
+   * [***Course 8: Data Visualization with Python***](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_56JGGC5RNG4V.pdf),[ Certificate verification link](https://www.coursera.org/verify/56JGGC5RNG4V)
    * [***Course 9: Machine Learning with Python***](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
       * [Certificate as PDF](/certificates/IBM_DataScienceProfessional/Coursera_RT5DRFX5QVQC.pdf),[ Certificate verification link](https://www.coursera.org/verify/RT5DRFX5QVQC)
