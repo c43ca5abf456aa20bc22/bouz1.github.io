@@ -61,9 +61,9 @@ In this project we will manipulate data that we gathered by the web scraping:
    * [***Course 5: Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
       * [Certificate as PDF](/certificates/DeepLearning_AI/Coursera_Y4QQT29YGKE3.pdf),[ Certificate verification link](https://www.coursera.org/verify/Y4QQT29YGKE3)
       
-[**Coursera: Natural Language Processing Specialization (NLP)**](https://www.coursera.org/specializations/deep-learning?)
+[**Coursera: Natural Language Processing Specialization (NLP)**](https://www.coursera.org/specializations/natural-language-processing)
 <br>
-   * [***Course 1: NLP with Classification and Vector Spaces***](https://www.coursera.org/specializations/natural-language-processing)
+   * [***Course 1: NLP with Classification and Vector Spaces***](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
       * [Certificate as PDF](/certificates/Coursera_RTL4Q78VV3N7.pdf),[ Certificate verification link](https://www.coursera.org/verify/RTL4Q78VV3N7)
 
 ## Skills 
