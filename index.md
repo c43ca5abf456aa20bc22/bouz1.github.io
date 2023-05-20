@@ -31,7 +31,7 @@ In this project we will manipulate data that we gathered by the web scraping:
 </p>
 
 <br><br>
-### [Project 3, Mai 2022 : Linear Logistic Regression with NumPy pure code and a comparison wit Sklearn model](fils/NumpyLR.html)
+### [Project 3, Mai 2022 : Linear Logistic Regression with NumPy pure code and a comparison wit Sklearn model](https://bouz1.github.io/fils/NumpyLR.html)
 A local linear regression (LR) object was generated only by pure numpy code, and this object has the same behaviours of Sklearn LR. 
 <br>
 This exercise helps understanding the linear logistic regression algorithm
