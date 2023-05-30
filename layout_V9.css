@@ -4,7 +4,7 @@
 :root {
   --horiz_pad_norm_div: 40px;
   --horiz_pad_norm_txt: 40px;
-  --horiz_pad_phon_div: 5px;
+  --horiz_pad_phon_div: 1px;
   --horiz_pad_phon_txt: 10px;
 
   --lab_color_hover:#f00;
