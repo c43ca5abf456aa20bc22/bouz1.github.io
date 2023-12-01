@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <!-- VERSION 16-->
+    <!--Web site of the streaming radio url
+  https://radioendirect.net/maroc
+  https://www.radio-soleil.com
+  http://fluxradios.blogspot.com/2014/07/flux-url-radio-orient.html
+  https://streamurl.link
+  -->
+    <link rel = "icon" href = "https://bouz1.github.io/pages/others_pages/radio/icon_rad.jpg" type = "image/x-icon">
+
+    <meta charset="utf-8">
+    <title>Radio</title>
+    <!--pour alwatania--> 
+    <script src="./Al Idaa Al Watania - 91.0 - Maroc - Rabat _ Radio En Direct Live_files/hls.js@latest">  </script>
+  </head>
+  <body> <!-- onload="ON_load()"-->
+    <!--h2>RADIO </h2-->
+
+    <div class="tab">
+      <button class="tablinks" onclick="opentab(event, 'DIV_TAB1')">Maroc</button>
+      <button class="tablinks" onclick="opentab(event, 'DIV_TAB2')">France</button>
+      <button class="tablinks" onclick="opentab(event, 'DIV_TAB3')">Arabe</button>
+      <button class="tablinks" onclick="opentab(event, 'DIV_TAB4')">Autre</button>
+
+
+    </div>
+
+
+    <div id="DIV_TAB1" class="tabcontent">
+      <div class='div_parent'>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            CHADA FM
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/408.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id' > <source src="https://streamer.eagrpservices.com/audio/chadafm.mp3"/>     </audio>
+          </div>
+        </div>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            HIT RADIO 
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/409.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id'> <source src="https://stream.radioendirect.net/409/"> </audio>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            MEDI 1
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/410.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id'> <source src="https://stream.radioendirect.net/410/"> </audio>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            MFM radio 
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/407.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id'> <source src="https://streamer.eagrpservices.com/audio/mfmradio.ogg"> </audio>
+          </div> </div>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Amazigh
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/1129.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <iframe src="https://cdn.jwplayer.com/players/msiaVuE8-0lAFpb69.html" frameborder="0" scrolling="auto"  allowfullscreen="no" id='iframe_amazigh'></iframe>
+          </div> 
+        </div>
+
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Alwatania
+          </p>
+          <img src="https://cdn.webrad.io/images/logos/radio-co-ma/watania.png" class='img_icone'>
+          <div class='audio_rad'>
+
+            <audio id="videoALWATANIA" controls="" autoplay="" 
+                   src="blob:null/c9fca72d-18c7-4b4f-b0c9-cb71ef33d64f"
+                   class='audio_id'/>
+            <script>
+              if(Hls.isSupported())
+              {
+                var video = document.getElementById('videoALWATANIA');
+                var hls = new Hls();
+                hls.loadSource('https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-avc1_100000=1.m3u8');
+                hls.attachMedia(video);
+              }
+              else if (video.canPlayType('application/vnd.apple.mpegurl'))
+              {
+                video.src = 'https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-avc1_100000=1.m3u8';
+              }
+            </script>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            MedinaFM
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/4026.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id' > <source src="https://stream.radioendirect.net/4026/"/>     </audio>
+          </div>
+        </div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            AdwaaFM
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/155571.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id' > <source src="https://stream.radioendirect.net/155571/"/>     </audio>
+          </div>
+        </div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            SawaMaroc
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/412.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id' > <source src="https://mbn-channel-04.akacast.akamaistream.net/7/26/233453/v1/ibb.akacast.akamaistream.net/mbn_channel_04"/>     </audio>
+          </div>
+        </div>
+
+
+
+      </div>
+    </div>
+
+
+
+
+
+
+    <div id="DIV_TAB2" class="tabcontent">
+      <div class='div_parent'>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            RADIO SOLEIL
+          </p>
+          <img src="https://static.mytuner.mobi/media/tvos_radios/ZtHd9N6naY.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+        <!--div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            RADIO SOLEIL V2
+          </p>
+          <img src="https://static.mytuner.mobi/media/tvos_radios/ZtHd9N6naY.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <iframe src='https://www.radio-soleil.com'
+                    height="140" width="340" scrolling='no' id='iframe_soleil'>
+
+            </iframe>
+          </div></div-->
+
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            RADIO ORIENT 
+          </p>
+          <img src="https://bocir-prod-bucket.s3.amazonaws.com/radios/radioorient/radiostream/UkP3XO6J7z/vignette.png" class='img_icone'>
+          <div  class='audio_rad'>
+            <audio autoplay="" controls="" class='audio_id'> <source src="http://n04a-eu.rcs.revma.com/7hnrkawf4p8uv.mp3?rj-ttl=5&rj-tok=AAABjBXrOnwAfzzg_dbWRMqqsw"> </audio>
+          </div> </div>
+      </div>
+    </div>
+
+
+    <div id="DIV_TAB3" class="tabcontent">
+      <div class='div_parent'>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Radio Sawa
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/4723.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Nogoum
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/26975.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src=" https://audio.nrpstream.com/listen/nogoumfm/radio.mp3" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Alger
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/8979.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://webradio.tda.dz/Internationale_64K.mp3" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Zaman
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/5321.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://zamanalwaslradio.out.airtime.pro/zamanalwaslradio_b" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Copt4G FM
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/12640.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://stream.radioendirect.net/12640/" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Caira
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/5312.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://stream.radioendirect.net/5312/" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Caira2
+          </p>
+          <img src="https://radioendirect.net/assets/images/radio/item/8947.jpg" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="http://9090streaming.mobtada.com/9090FMEGYPT" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+
+      </div>
+    </div>
+
+    <div id="DIV_TAB4" class="tabcontent">
+      <div class='div_parent'>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            LBC London
+          </p>
+          <img src="https://streamurl.link/logos/538a74d5be15e10b3923438eded9674a0cf5b3139c4911e77b487da2964b34dd.png" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="http://media-ice.musicradio.com/LBCLondonMP3" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+        <div class='radio_station' onclick="click_div_rad( this)">
+          <p class='label_rad'>
+            Jazz London
+          </p>
+          <img src="https://streamurl.link/logos/a9c8d29bce0b2751520945c07fc517e5e2094883ecdba8d0dba6c982b8f70753.png" class='img_icone'>
+          <div class='audio_rad'>
+            <audio preload="none" autoplay="autoplay" controls="controls" 
+                   src="https://radio.canstream.co.uk:8075/live.mp3" 
+                   type="audio/x-mpegurl" class='audio_id'/>
+          </div></div>
+
+
+
+      </div>
+    </div>
+
+
+
+    <script>
+      /* THE MAINE SCRIPT */
+      document.addEventListener('play', function(e) {
+        var audios = document.getElementsByTagName('audio');
+
+        for (var i = 0, len = audios.length; i < len; i++) {
+          if (audios[i] != e.target) {
+            audios[i].pause();
+          }/*
+          if (audios[i] == e.target) {
+            console.log(audios[i]);
+          }*/
+        }
+      }, true);
+
+      /*
+        function click_div_rad(elem){
+          var audios = elem.getElementsByTagName('audio');
+          audios[0].play();
+        }
+        */
+      function click_div_rad(elem){
+        var audios = elem.getElementsByTagName('audio');
+        if (audios[0].paused ) {
+          audios[0].play();
+        }
+        else {
+          audios[0].pause();
+        }
+      }
+
+    </script>
+    <script>
+      /*for tab*/
+      function opentab(evt, tabName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+
+
+
+
+      var tab1 = document.getElementById('DIV_TAB1');
+      tab1.style.display = "block";
+
+    </script>
+
+
+
+    <style>
+      /* The main style*/
+      .div_parent {
+        /*background-color: lightblue;*/
+        /*width:350px;*/
+
+        border-radius: 25px;
+        /*height:1200px;*/
+        /*1560 x 720 px */
+        transform-origin: center center;
+
+        background: url('https://i.stack.imgur.com/jGlzr.png') no-repeat 0 0 scroll;
+        background-color:#0C0C0C;
+        background-size: 100% 100%;
+        height:100%;
+        width:100%;
+      }
+      .label_rad{
+        color: white;
+        text-indent: 40px;
+        font-size: 1.5rem;/*40px;*/
+
+      }
+      .audio_id{
+        width:100px;
+        margin-left: 30px ;
+        margin-bottom: 10px ;
+        transform: scale(1, 1);
+        /*height:100px;*/
+      }
+
+
+
+
+
+      .audio_id::-webkit-media-controls-play-button {
+        transform: scale(2, 2);
+      }
+      #iframe_soleil {
+
+        border: none;
+        object-fit: cover;
+        object-position: bottom;
+
+      }
+      #iframe_amazigh{
+        width:40px;
+
+        height:42px ;
+        transform: scale(1.5);
+        margin: 20px ;
+        margin-left:30px ;
+        /*transform: scale(1.5, 1.5);*/
+
+        /*max-width: 100%;*/
+
+      }
+
+      .img_icone{
+        width:4rem;
+        height:3.5rem;
+
+        border-radius: 20px;
+        margin-left: 30px ;
+        margin-bottom: 10px ;
+      }
+      .audio_rad, .img_icone{
+        position: relative;
+        display: inline-block;
+      }
+
+      .radio_station{
+        border-radius: 25px;
+        border: 1px solid black;
+
+      }
+
+
+      /*@media screen and (max-width: 1000px) */
+      @media all and (orientation:portrait){
+        .radio_station{
+          /*background-color: red;*/
+          width:100%;
+          height:10%;
+          display: block;
+        }
+
+
+        .tab button {
+          padding: 14px 16px;
+          font-size: 40px;
+
+        }
+      }
+
+
+
+
+
+      /*@media screen and (min-width: 1000px) */
+      @media all and (orientation:landscape)
+      {
+        .radio_station{
+          /*background-color: blue;*/
+          width:32%;
+          height:%;
+          display: inline-block;
+          vertical-align: top;
+        }
+
+
+        .tab button {
+
+          padding: 5px 16px;
+          font-size: 25px;
+
+        }
+      }
+
+
+    </style>
+
+
+
+    <style>
+      /* FOR THE TAB*/
+      body {font-family: Arial;}
+
+      /* Style the tab */
+      .tab {
+        overflow: hidden;
+        border: 1px solid #ccc;
+        background-color: #f1f1f1;
+      }
+
+      /* Style the buttons inside the tab */
+
+      .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        transition: 0.3s;
+        color: white;
+        transition: 0.3s;}
+
+      .tab{
+        background-color:#855E42;
+        border-radius: 25px;
+      }
+
+      /* Create an active/current tablink class */
+      .tab button.active {
+        background-color: #cdaa7d;
+      }
+
+      /* Style the tab content */
+      .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+      }
+    </style>
+  </body>
+</html>
